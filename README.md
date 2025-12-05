@@ -1,6 +1,6 @@
 # US-Healthcare-Project
 
-🏥 US Healthcare Case Study: Summary
+🏥 US Healthcare Case Study: 
 
 The overall objective of this analysis is to determine the Impact of Demographics and Admission Types on Healthcare Costs and Outcomes using the provided dataset of 100 hospitals.
 
