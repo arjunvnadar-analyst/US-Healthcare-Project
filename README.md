@@ -1,2 +1,2 @@
 # US-Healthcare-Project
-Analyze data from 100 US hospitals, covering patient, admission, and insurance details, to answer executive questions. The objective is to derive meaningful, actionable insights and deliver a clear, concise, and complete presentation of findings to the department.
+Overview: The US healthcare department has shared the hospital data for 100 hospitals which includes data like patient information, their admission information and the insurance information. The top executives from the department have a few questions on the data and would like you to analyse and present your findings to them. The analysis should derive meaning actionable insights and the presentation should be clear, complete and concise.
